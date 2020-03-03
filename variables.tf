@@ -34,12 +34,12 @@ variable "count" {
 }
 
 variable "ami_type" {
- default = "ami-0c5204531f799e0c6"
+ default = "ami-0fb3bb3e1ae2da0be"
 }
  variable "instance_type" {
   default = "t2.micro"
  }
 
  variable "key_name" {
-  default = "Oregon-KI"
+  default = "ohio-jenkins"
  }
